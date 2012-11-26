@@ -406,7 +406,7 @@ Major market shift
 
 !SLIDE
 # Links
-* ### [Trello App](https://trello.com/board/scrum-presentation/50af338f152515fb25000293)
 * ### [Scrum Alliance](http://scrumalliance.org)
 * ### [Agile Atlas](http://agileatlas.org/)
 * ### [The Scrum Guide](http://www.scrum.org/Portals/0/Documents/Scrum%20Guides/Scrum_Guide.pdf)
+* ### [Trello App](https://trello.com/board/scrum-presentation/50af338f152515fb25000293)
