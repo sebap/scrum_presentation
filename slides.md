@@ -77,8 +77,9 @@
 ### 1995 - Ken Schawber formalized it.
 
 !SLIDE
-# Say Hi!
-}}} images/GTFS-Jeff-Ken-2009.jpg
+## Say Hi!
+<br>
+<img src="images/GTFS-Jeff-Ken-2009.jpg" width="800">
 
 !SLIDE left
 # Scrum Definition
@@ -108,8 +109,8 @@
 # It is an Evolving Process
 
 !SLIDE
-# SHU HA RI
-}}} images/ShuHaRi.jpg
+<img src="images/ShuHaRi.jpg" width="1024">
+
 
 !SLIDE
 ## SHU
@@ -153,25 +154,25 @@
 ##### [update board](https://trello.com/board/scrum-presentation/50af338f152515fb25000293)
 
 !SLIDE scrum-overview
-}}} images/Scrum-0.png
+<img src="images/Scrum-0.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-1.png
+<img src="images/Scrum-1.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-2.png
+<img src="images/Scrum-2.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-3.png
+<img src="images/Scrum-3.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-4.png
+<img src="images/Scrum-4.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-5.png
+<img src="images/Scrum-5.png">
 
 !SLIDE scrum-overview
-}}} images/Scrum-6.png
+<img src="images/Scrum-6.png">
 
 !SLIDE left
 # Product Backlog (Rules)
@@ -213,7 +214,8 @@
 
 !SLIDE
 #Estimation Accuracy
-}}} images/estimation-accuracy.jpg
+<img src="images/estimation-accuracy.jpg">
+
 
 !SLIDE left
 # 2 Level of Planning
@@ -224,7 +226,7 @@
 
 !SLIDE
 # We are better at estimating size, not time. 
-## Good at none :)
+## Good at none :P
 
 !SLIDE
 # Agile Estimation Rule
@@ -246,7 +248,8 @@
 
 !SLIDE
 #Affinity in practice
-}}} images/affinity-sample.jpg
+<img src="images/affinity-sample.jpg">
+
 
 !SLIDE left
 # Poker Planning
@@ -258,7 +261,7 @@
 * Re-vote until estimates converge
 
 !SLIDE
-}}} images/planningpoker.jpg
+<img src="images/planningpoker.jpg">
 
 !SLIDE left
 #Sprint Planning
@@ -323,7 +326,8 @@ Major market shift
 * by the end of the Sprint
 
 !SLIDE
-}}} images/burndown-chart.jpg
+<img src="images/burndown-chart.jpg">
+
 
 !SLIDE
 # Daily Scrums
