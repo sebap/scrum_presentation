@@ -17,15 +17,15 @@
 ## Talk about Scrum using Scrum...
 
 !SLIDE
-## ...using a tool.
+## ...and a tool.
 
-!SLIDE left
-# The Plan: 
+!SLIDE
+# The Plan
 ## 1 Sprint
 ## 5 Features
-## Digital Board (www.trello.com)
+## Digital Board
 
-!SLIDE left
+!SLIDE
 # The Features
 * Feature 1: Why Scrum? (10 min)
 * Feature 2: The Basics (10 min)
@@ -63,14 +63,15 @@
 ## 4 Values
 ## [12 Principles (link)](http://agilemanifesto.org/principles.html)
 
-!SLIDE left
-## Agile Manifesto: 4 Values
+!SLIDE
+## 4 Values
+<br>
 * **<span style="font-size:1.5em">Individuals and interactions</span>** <span style="color: #C00">over</span> processes and tools
 * **<span style="font-size:1.5em">Completed functionality</span>** <span style="color: #C00">over</span> comprehensive documentation
 * **<span style="font-size:1.5em">Customer collaboration</span>** <span style="color: #C00">over</span> contract negotiation
 * **<span style="font-size:1.5em">Responding to change</span>** <span style="color: #C00">over</span> following a plan
 <br>
-#### While there is value in the items on the right,<br> the items on the left matter more.
+##### While there is value in the items on the right, the items on the left matter more.
 
 !SLIDE
 ### 1993 - Jeff Sutherland implemented it.
@@ -100,13 +101,13 @@
 * ### But SW Dev, isn’t a process that generates the same output every time given a certain input. 
 
 !SLIDE
-#...so another way to put it...
+#...another definition...
 
 !SLIDE
-#SCRUM is a cool set of tricks.
+#SCRUM is a cool set of tricks
 
 !SLIDE
-# It is an Evolving Process
+# Evolving Process
 
 !SLIDE
 <img src="images/ShuHaRi.jpg" width="1024">
@@ -152,6 +153,13 @@
 # Feature 2
 ## The Basics
 ##### [update board](https://trello.com/board/scrum-presentation/50af338f152515fb25000293)
+
+!SLIDE
+# Framework
+### 1 Product Vision
+### 3 Roles
+### 4 Meetings
+### 3 Artifacts
 
 !SLIDE scrum-overview
 <img src="images/Scrum-0.png">
@@ -377,13 +385,13 @@ Major market shift
 ## Share Some Thoughts
 ##### [update board](https://trello.com/board/scrum-presentation/50af338f152515fb25000293)
 
-!SLIDE
+!SLIDE left
 * ### Easy to learn, hard to master (like ruby?)
-* ### Relies on Collaboration
-* ### Team decides
-* ### Inspect & adapt
+* ### Team Collaboration
+* ### Inspect & Adapt
 * ### Self managed
 * ### Proactive approach
+* ### Scrum + XP (Continuous integration, pair programming, TDD, Refactoring, etc)
 
 
 
