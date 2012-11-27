@@ -126,7 +126,7 @@
 !SLIDE
 ## RI
 ### Leave, Depart, Fly
-#### (Trascend, become part of it, see the matrix, become NEO)
+#### (Trascend, become one with the spirit, see the matrix, become NEO)
 
 
 
