@@ -393,7 +393,11 @@ Major market shift
 * ### Proactive approach
 * ### Scrum + XP (Continuous integration, pair programming, TDD, Refactoring, etc)
 
+!SLIDE 
+# Scrum is 20 years old
 
+!SLIDE
+# What's next?
 
 
 
